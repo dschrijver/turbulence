@@ -14,7 +14,7 @@ Additionally, the [raylib](https://github.com/raysan5/raylib) library needs to b
 sudo apt install libasound2-dev libx11-dev libxrandr-dev libxi-dev libgl1-mesa-dev libglu1-mesa-dev libxcursor-dev libxinerama-dev libwayland-dev libxkbcommon-dev
 ```
 
-Download the library using:
+Download the raylib library using:
 
 ```
 git clone https://github.com/raysan5/raylib.git

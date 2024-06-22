@@ -1,5 +1,5 @@
 # turbulence
-Simulation of a turbulent pipe flow around an obstacle using the Lattice Boltzmann Equation. An in-depth explanation can be found [here](https://dschrijver.github.io/index.html#turbulence).
+Simulation of a turbulent pipe flow around an obstacle using the Lattice Boltzmann Equation. An in-depth explanation can be found [here](https://dschrijver.github.io/turbulence.html).
 
 ## Requirements
 This program is developed for GNU Linux. The required programs can be installed using the following command:
